@@ -9,7 +9,6 @@ const AuthPage = (props) => {
       .catch(e => console.log('error', e));
   }; 
 
-
     return (
       <div className="background">
         <form onSubmit={onSubmit} className="form-card">
