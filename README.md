@@ -27,11 +27,11 @@ These instructions will help you set up and run the project on your local machin
 4. Start the development server
    npm start
 5. Open your web browser and visit http://localhost:3000.
-
-![image](https://github.com/anthonyytran/react-chat-2/assets/62272435/d2dcfdb0-d985-441e-8b1d-b3f2d0b33e94)
    
 6. Choose any username and press 'Enter'
    
 7. Start chatting real-time!
 
 ![image](https://github.com/anthonyytran/react-chat-2/assets/62272435/493d75b2-c7b8-48e6-88c6-328f6c954ab0)
+
+![image](https://github.com/anthonyytran/react-chat-2/assets/62272435/d2dcfdb0-d985-441e-8b1d-b3f2d0b33e94)
