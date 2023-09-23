@@ -17,20 +17,36 @@ React Chat is a real-time chat application built with React.js for the frontend 
 
 These instructions will help you set up and run the project on your local machine. Make sure you have Node.js and npm (Node Package Manager) installed.
 
-1. Clone the repository:
-   git clone https://github.com/anthonyytran/react-chat-2.git
+Clone the Repository:
 
-2. Navigate to project directory
-   cd react-chat-2
-3. Install dependencies with
-   npm install
-4. Start the development server
-   npm start
-5. Open your web browser and visit http://localhost:3000.
+bash
+Copy code
+git clone https://github.com/anthonyytran/react-chat-2.git
+Navigate to the Project Directory:
+
+bash
+Copy code
+cd react-chat-2
+Install Dependencies:
+
+bash
+Copy code
+npm install
+Start the Development Server:
+
+bash
+Copy code
+npm start
+Open Your Web Browser:
+
+Open your web browser and visit http://localhost:3000.
+
+Choose a Username and Get Started:
+
+Choose any username you like.
+Press 'Enter' to start chatting in real-time!
    
-6. Choose any username and press 'Enter'
-   
-7. Start chatting real-time!
+8. Start chatting real-time!
 
 ![image](https://github.com/anthonyytran/react-chat-2/assets/62272435/493d75b2-c7b8-48e6-88c6-328f6c954ab0)
 
